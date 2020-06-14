@@ -5,8 +5,8 @@ import {
   TagNode,
   PrettyOptions,
   prettyNodes
-} from "./index";
-import { isVoidTag } from "./tags";
+} from "./index.ts";
+import { isVoidTag } from "./tags.ts";
 
 export interface ToStringOptions extends PrettyOptions {
   /**

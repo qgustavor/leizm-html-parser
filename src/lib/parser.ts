@@ -4,7 +4,7 @@ import {
   isHtml5Tag,
   isRawTextTag,
   isEscapableRawTextTag
-} from "./tags";
+} from "./tags.ts";
 
 export interface Node {
   /**

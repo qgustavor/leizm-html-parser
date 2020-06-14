@@ -1,4 +1,4 @@
-import { NodeChildren, TextNode, TagNode, parse, toString } from "./index";
+import { NodeChildren, TextNode, TagNode, parse, toString } from "./index.ts";
 
 const REG_REMOVE_SPACES = /^\s+|\s+$/g;
 

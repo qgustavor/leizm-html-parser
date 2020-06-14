@@ -6,7 +6,7 @@
  * @author Zongmin Lei <leizongmin@gmail.com>
  */
 
-export * from './parser';
-export * from './to_string';
-export * from './pretty';
-export * from './minify';
+export * from './parser.ts';
+export * from './to_string.ts';
+export * from './pretty.ts';
+export * from './minify.ts';

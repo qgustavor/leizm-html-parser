@@ -5,7 +5,7 @@ import {
   parse,
   toString,
   ParseOptions
-} from "./index";
+} from "./index.ts";
 
 const REG_REMOVE_SPACES = /^\s+|\s+$/g;
 
